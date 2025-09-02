@@ -4,8 +4,7 @@ matplotlib
 python-docx
 reportlab
 openpyxl
-io
-pandas
+
 
 
 
