@@ -1,6 +1,0 @@
-streamlit
-numpy
-matplotlib
-python-docx
-reportlab
-openyxl
