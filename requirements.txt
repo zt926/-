@@ -3,8 +3,9 @@ numpy
 matplotlib
 python-docx
 reportlab
-openyxl
+openpyxl
 io
 pandas
+
 
 
